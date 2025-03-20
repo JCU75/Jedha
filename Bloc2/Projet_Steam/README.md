@@ -23,7 +23,7 @@ The ultimate goal of this project is to understand what factors affect the popul
 
 ## Getting Started
 
-[Data](s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json)
+**Data link**: s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 
 ### Clone the repository:
@@ -46,8 +46,8 @@ Bloc2/Projet_Steam
 
 ## Built With
 
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png" alt="Databricks logo" style="height: 30px; width:30px;"/>
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" style="height: 30px; width:30px;"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png" alt="Databricks logo" style="height: 50px; width:50px;"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" style="height: 50px; width:50px;"/>
 
 
 ## Authors
