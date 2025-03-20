@@ -1,4 +1,4 @@
-# Projet WAlmart
+# Projet Walmart
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg" alt="Steal logo" style="height: 100px; width:100px;"/>
 
 The project can be divided into three steps:
