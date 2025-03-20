@@ -22,12 +22,16 @@ Bloc3/Projet_Walmart
 
 ## Built With
   
-  - [Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-  - [Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
-  - [Pandas](https://upload.wikimedia.org/wikipedia/commons/2/2f/Pandas_logo.svg)
-  - [Matplotlib](https://upload.wikimedia.org/wikipedia/commons/2/2f/Pandas_logo.svg)
-  - [Seaborn](https://upload.wikimedia.org/wikipedia/commons/2/2f/Pandas_logo.svg)
-  - [Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" style="height: 100px; "/>
+
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter logo" style="height: 100px; "/>
+
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas logo" style="height: 100px; "/>
+
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn logo" style="height: 100px; "/>
+
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly logo" style="height: 100px; "/>
 
 
 ## Authors
