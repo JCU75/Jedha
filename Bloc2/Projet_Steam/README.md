@@ -23,7 +23,7 @@ The ultimate goal of this project is to understand what factors affect the popul
 
 ## Getting Started
 
-[Data](`s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json`)
+[Data](s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json)
 
 
 ### Clone the repository:
@@ -37,17 +37,17 @@ Bloc2/Projet_Steam
 ```
 
 ### Or click on the links below:
-[Steam_Project_Part1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892658/8615416413313188/latest.html)
-[Steam_Project_Part2](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892721/8615416413313188/latest.html)
-[Steam_Project_Part3](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892754/8615416413313188/latest.html)
-[Steam_Project_Part4](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892796/8615416413313188/latest.html)
+- [Steam_Project_Part1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892658/8615416413313188/latest.html)
+- [Steam_Project_Part2](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892721/8615416413313188/latest.html)
+- [Steam_Project_Part3](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892754/8615416413313188/latest.html)
+- [Steam_Project_Part4](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/220027310637038/4395736285892796/8615416413313188/latest.html)
 
 
 
 ## Built With
 
-  - [Databricks](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png) 
-  - [Pyhton](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png" alt="Databricks logo" style="height: 30px; width:30px;"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" style="height: 30px; width:30px;"/>
 
 
 ## Authors
