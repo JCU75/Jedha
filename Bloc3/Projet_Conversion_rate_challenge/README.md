@@ -1,5 +1,5 @@
 # Projet Conversion Rate Challenge
-<img src=![https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png](image.png)" alt="Kaggle" style="height: 100px; width:100px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Steal logo" style="height: 100px;"/>
 
 
 The project can be cut into four steps :
