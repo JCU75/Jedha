@@ -1,0 +1,11 @@
+,model_key,mileage,engine_power,fuel,paint_color,car_type,private_parking_available,has_gps,has_air_conditioning,automatic_car,has_getaround_connect,has_speed_regulator,winter_tires
+1,Audi,54868,100,petrol,grey,convertible,False,True,False,False,False,False,True
+2,Citroën,60401,135,diesel,grey,estate,True,True,False,False,True,True,True
+3,Renault,66963,140,diesel,orange,coupe,False,True,False,False,False,True,True
+4,Volksvagen,63662,180,petrol,orange,suv,True,False,False,False,True,False,True
+5,Seat,216092,85,petrol,blue,estate,True,False,False,False,False,False,False
+6,Skoda,133678,190,diesel,black,hatchback,True,True,False,False,True,True,True
+7,Kia,25988,135,diesel,grey,coupe,True,True,False,False,True,True,True
+8,Hyundai,223809,125,petrol,black,suv,True,False,False,False,False,True,True
+9,Peugeot,281252,120,diesel,black,convertible,True,True,False,False,True,False,True
+10,BMW,295114,105,diesel,red,sedan,True,True,False,False,False,True,True
