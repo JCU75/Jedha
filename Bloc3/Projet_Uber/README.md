@@ -1,4 +1,4 @@
-# Projet Conversion Rate Challenge
+# Projet Uber
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/1024px-Uber_logo_2018.svg.png" alt="UBER LOGO" style="height: 100px;" />
 
 
@@ -22,17 +22,14 @@ Bloc3/Projet_Uber/
 
 ## Built With
   
-
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" style="height: 100px; "/>
-
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter logo" style="height: 100px; "/>
-
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas logo" style="height: 100px; "/>
-
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn logo" style="height: 100px; "/>
-
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly logo" style="height: 100px; "/>
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" style="height: 100px; "/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter logo" style="height: 100px; "/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas logo" style="height: 100px; "/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn logo" style="height: 100px; "/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly logo" style="height: 100px; "/>
+</p>
+  - 
 
 ## Authors
 
