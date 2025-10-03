@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+mlflow
+joblib
+scikit-learn
+boto3
+pydantic
+python-dotenv
+xgboost
