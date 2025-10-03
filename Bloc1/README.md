@@ -44,8 +44,8 @@ Bloc1/
 ```
 
 ## 🔗 Links
-* [Weather map](maps/top-5-city.html): Interactive 6 day forecast for 5 selected cities, focus on "clear sky" days
-* [Hotels map](20_hotels_in_area.html): Top 20 hotels displayed for each city with location and rating
+* [Weather map](https://JCU75.github.io/Jedha/Bloc1/top-5-city.html): Interactive 6 day forecast for 5 selected cities, focus on "clear sky" days
+* [Hotels map](https://JCU75.github.io/Jedha/Bloc1/20_hotels_in_area.html): Top 20 hotels displayed for each city with location and rating
 
 ## Built With
 <p align="center">
